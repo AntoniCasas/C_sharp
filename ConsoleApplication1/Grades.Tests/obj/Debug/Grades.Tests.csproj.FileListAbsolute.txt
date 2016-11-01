@@ -1,0 +1,6 @@
+C:\Git repos\C #\ConsoleApplication1\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Git repos\C #\ConsoleApplication1\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Git repos\C #\ConsoleApplication1\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git repos\C #\ConsoleApplication1\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Git repos\C #\ConsoleApplication1\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Git repos\C #\ConsoleApplication1\Grades.Tests\obj\Debug\Grades.Tests.pdb
