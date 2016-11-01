@@ -1,0 +1,6 @@
+C:\Git repos\C #\ConsoleApplication1\ConsoleApplication1\bin\Debug\Grades.exe.config
+C:\Git repos\C #\ConsoleApplication1\ConsoleApplication1\bin\Debug\Grades.exe
+C:\Git repos\C #\ConsoleApplication1\ConsoleApplication1\bin\Debug\Grades.pdb
+C:\Git repos\C #\ConsoleApplication1\ConsoleApplication1\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Git repos\C #\ConsoleApplication1\ConsoleApplication1\obj\Debug\Grades.exe
+C:\Git repos\C #\ConsoleApplication1\ConsoleApplication1\obj\Debug\Grades.pdb

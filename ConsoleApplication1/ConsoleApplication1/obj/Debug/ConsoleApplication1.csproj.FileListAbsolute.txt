@@ -1,1 +1,2 @@
 C:\Git repos\C #\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Git repos\C #\ConsoleApplication1\ConsoleApplication1\bin\Debug\Grades.exe.config
